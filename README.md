@@ -1,5 +1,5 @@
 # Ex02 Django ORM Web Application
-## Date: 07.10.23
+## Date: 20.9.23
 
 ## AIM
 To develop a Django application to store and retrieve data from a Football Players database using Object Relational Mapping(ORM).
@@ -42,7 +42,8 @@ class PlayerAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
-![Alt text](<Screenshot (37).png>)
+![Screenshot (37)](https://github.com/LINGARAJA-L/ORM/assets/129825857/ec693984-3eb4-4fe1-8764-73ef5a0b73b9)
+
 
 
 
